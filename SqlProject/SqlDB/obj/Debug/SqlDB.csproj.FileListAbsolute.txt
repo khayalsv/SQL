@@ -1,0 +1,12 @@
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\bin\Debug\SqlDB.exe.config
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\bin\Debug\SqlDB.exe
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.Form1.resources
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.Properties.Resources.resources
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.exe
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.Lesson.resources
+C:\Users\selim\Desktop\Programming\SQL\SqlProject\SqlDB\obj\Debug\SqlDB.FormHobby.resources
